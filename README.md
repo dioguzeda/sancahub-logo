@@ -1,4 +1,6 @@
 # Logotipo oficial do ecossistema Sanca Hub
+![](https://github.com/dioguzeda/sancahub-logo/blob/master/SANCA%20HUB%20v1.0_ilustrado.png)
+
 Desenhado e escolhido pelo grupo Sanca Hub em São Carlos, a Capital da Tecnologia.
 
 Este trabalho está licenciado com uma Licença Creative Commons - Atribuição 4.0 Internacional - http://creativecommons.org/licenses/by/4.0/
